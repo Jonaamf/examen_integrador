@@ -1,3 +1,3 @@
 # examen_integrador
-Jonathan
+Jonathan Manzolido
 Lucas
